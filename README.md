@@ -50,3 +50,5 @@ Este projeto permite gerar um arquivo PDF a partir de imagens presentes na pági
 ## Licença
 
 Este projeto é de uso livre. Sinta-se à vontade para modificar e usar conforme necessário.
+
+by Mateus Fernando
